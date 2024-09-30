@@ -566,8 +566,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
-=======
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &667131708
 GameObject:
@@ -652,7 +650,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
->>>>>>> f6bb0735f5ac99d7d43cd01c888b8839526eded8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &705708561
 GameObject:
@@ -1073,7 +1070,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1726673851
 GameObject:
@@ -1086,7 +1082,7 @@ GameObject:
   - component: {fileID: 1726673853}
   - component: {fileID: 1726673852}
   m_Layer: 0
-  m_Name: Cloud (4)
+  m_Name: Cloud 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1158,8 +1154,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-=======
->>>>>>> f6bb0735f5ac99d7d43cd01c888b8839526eded8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1778568164
 GameObject:
@@ -1650,10 +1644,7 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 218472407}
   - {fileID: 1583667930}
-<<<<<<< HEAD
-=======
   - {fileID: 667131710}
->>>>>>> f6bb0735f5ac99d7d43cd01c888b8839526eded8
   - {fileID: 943163404}
   - {fileID: 420060068}
   - {fileID: 2048237399}
@@ -1661,7 +1652,4 @@ SceneRoots:
   - {fileID: 2018742224}
   - {fileID: 99307869}
   - {fileID: 705708563}
-<<<<<<< HEAD
   - {fileID: 1726673853}
-=======
->>>>>>> f6bb0735f5ac99d7d43cd01c888b8839526eded8
